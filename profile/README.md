@@ -6,6 +6,7 @@ Github-organisatie voor projectwerk en studiemateriaal binnen de bacheloropleidi
 
 ## Overzicht van enkele publieke repositories
 
+- [LaTeX @HOGENT gids](https://hogenttin.github.io/latex-hogent-gids/)
 - [Bachelorproefsjabloon](https://github.com/HoGentTIN/latex-hogent-bachproef)
 - [HOGENT Report](https://github.com/HoGentTIN/latex-hogent-report): voor een rapport of verslag (wordt ook gebruikt als bachelorproefsjabloon)
 - [HOGENT Artikel](https://github.com/HoGentTIN/latex-hogent-article): voor een kort document (enkele bladzijden), zoals gebruikt voor het onderzoeksvoorstel Bachelorproef of Research Methods.
