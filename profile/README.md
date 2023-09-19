@@ -1,16 +1,18 @@
-# hogenttin overzicht
+# hogenttin
 
-Links naar de belangrijkste (publieke) repos binnen deze organisatie.
+Github-organisatie voor projectwerk en studiemateriaal binnen de bacheloropleiding toegepaste informatica aan HOGENT.
 
-⚠️⚠️⚠️Repositories van studenten(groepen) kunnen worden verwijderd voor het begin van het volgende academiejaar. **Zorg dus tijdig voor een backup!**⚠️⚠️⚠️
+⚠️⚠️⚠️ **Let op!** Repositories van studenten(groepen) kunnen worden opgeruimd voor het begin van het volgende academiejaar. **Zorg dus tijdig voor een backup!**
 
-## LaTeX sjablonen
+## Overzicht van enkele publieke repositories
 
-- [HOGENT Report](https://github.com/HoGentTIN/latex-hogent-report). Nieuw sjabloon (documentclass) voor een rapport of thesis, aangepast aan de nieuwe HOGENT huisstijl met het Montserrat lettertype.
-- [Beamer Presentatie](https://github.com/HoGentTIN/latex-hogent-beamer)
-- [Examenopgave](https://github.com/HoGentTIN/latex-hogent-exam)
-- [Artikel](https://github.com/HoGentTIN/latex-hogent-article): een kort document (enkele bladzijden), zoals gebruikt voor het onderzoeksvoorstel bachelorproef of verslag NPE onderzoekstechnieken. Aangepast aan de nieuwe HOGENT huisstijl met het Montserrat lettertype.
 - [Bachelorproefsjabloon](https://github.com/HoGentTIN/latex-hogent-bachproef)
+- [HOGENT Report](https://github.com/HoGentTIN/latex-hogent-report): voor een rapport of verslag (wordt ook gebruikt als bachelorproefsjabloon)
+- [HOGENT Artikel](https://github.com/HoGentTIN/latex-hogent-article): voor een kort document (enkele bladzijden), zoals gebruikt voor het onderzoeksvoorstel Bachelorproef of Research Methods.
+- [Beamer Presentatie](https://github.com/HoGentTIN/latex-hogent-beamer): voor een presentatie, conform de HOGENT huisstijl
+- [Examenopgave](https://github.com/HoGentTIN/latex-hogent-exam)
+
+
 
 <!--
 
