@@ -2,7 +2,7 @@
 
 Github-organisatie voor projectwerk en studiemateriaal binnen de bacheloropleiding toegepaste informatica aan HOGENT.
 
-**Het is zinloos om aanvragen te blijven versturen om Github Copilot for Business aan te zetten voor deze organisatie. We zullen niet ingaan op deze vraag.**
+**<span style="color:red">Het is zinloos om aanvragen te blijven versturen om Github Copilot for Business aan te zetten voor deze organisatie. We zullen niet ingaan op deze vraag.</span>**
 
 ⚠️ **Let op!** Repositories van studenten(groepen) kunnen worden opgeruimd voor het begin van het volgende academiejaar. **Zorg dus tijdig voor een backup!**
 
